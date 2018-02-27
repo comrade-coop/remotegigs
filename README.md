@@ -11,7 +11,7 @@ If you and other fellow developers like and support this project we are committe
 
 New job offers are posted freely as issues in this repo. The flow and management of the application process that follows are up to the employers.
 <ul>
-<li>To post a new offer head to the <a href:"https://github.com/comrade-coop/remotegigs/issues" target="_blank">issues tab</li>
+<li>To post a new offer head to the <a href="https://github.com/comrade-coop/remotegigs/issues" target="_blank">issues tab and create a new issue;</li>
 <li>For what is considered a quality job offer please follow this template;</li>
 <li>Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the agreed upon label convention here;</li>
 <li>To gather ideas from previous job posts visit the job board here.</li>
