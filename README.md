@@ -14,7 +14,7 @@ New job offers are posted freely as issues in this repo. The flow and management
 
 - To post a new offer head to the [issues tab](https://github.com/comrade-coop/remotegigs/issues) and create a new issue;
 - For what is considered a quality job offer please follow [this template](https://github.com/comrade-coop/remotegigs/blob/master/ISSUE_TEMPLATE.md);
-- Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the suggested [label convention](https://stackoverflow.com/tags);
+- Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the suggested [label convention](https://github.com/comrade-coop/remotegigs/labels);
 - To gather ideas from previous job posts visit the [job board](https://github.com/comrade-coop/remotegigs/issueshere).
 
 *Important: Please note that we want job offers (issues) to uphold certain standards for the community of developers to find them useful. To comply with those standards, we reserve the right to remove offers that we find misleading or lack credibility.*
