@@ -93,5 +93,4 @@ Is relocation required?
 How would you like developers to apply? What extra info would you like them to provide (stackoverflow account url, cv, etc.)?
 
 <h3>To posting an issue</h3>
-To post a new job offer go to the <a href="https://github.com/comrade-coop/remotegigs/issues" target="blank">issues board</a> and create a new one.
-
+To post a job offer go to the <a href="https://github.com/comrade-coop/remotegigs/issues" target="blank">issues board</a> and create a new issue.
