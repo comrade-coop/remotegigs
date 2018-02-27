@@ -12,7 +12,7 @@ If you and other fellow developers like and support this project we are committe
 New job offers are posted freely as issues in this repo. The flow and management of the application process that follows are up to the employers.
 <ul>
 <li>For what is considered a quality job offer please follow this template;</li>
-Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the agreed upon label convention here;</li>
+<li>Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the agreed upon label convention here;</li>
 <li>To gather ideas from previous job posts visit the job board here.</li>
 </ul>
 
@@ -25,9 +25,9 @@ If you have any suggestions or questions please write to us at contact(@)comrade
 Welcome to a community of developers who recognize the value of employment transparency and managing their personal work-life balance! This project allows you to find work from employees who share those values as well.
 
 By using this free tool you can:
-Pull work opportunities relevant to you by installing;
-Further filter your preferences based on Title and the label convention;
-Modify the tool’s open code to adapt it to your taste.
+<li>Pull work opportunities relevant to you by installing;</li>
+<li>Further filter your preferences based on Title and the label convention;</li>
+<li>Modify the tool’s open code to adapt it to your taste.</li>
 
 You can give it a try by starting here.
 
