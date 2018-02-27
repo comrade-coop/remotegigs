@@ -8,8 +8,8 @@ As for the labels used you can refer to the accepted convention here.
 
 <h3>Descriptive Position Title</h3>
 Note: Titles are used by developers to filter job offers based on their preferences.
-
-To include:
+</br>
+Include:
 <ul>
 <li>Company / Employer</li>
 <li>Seniority</li>
