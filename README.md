@@ -10,10 +10,11 @@ If you and other fellow developers like and support this project we are committe
 <h2>For employers</h2>
 
 New job offers are posted freely as issues in this repo. The flow and management of the application process that follows are up to the employers.
-
-For what is considered a quality job offer please follow this template.
-Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the agreed upon label convention here.
-To gather ideas from previous job posts visit the job board here.
+<ul>
+<li>For what is considered a quality job offer please follow this template;</li>
+Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the agreed upon label convention here;</li>
+<li>To gather ideas from previous job posts visit the job board here.</li>
+</ul>
 
 Important: Please note that we want job offers (issues) to uphold certain standards for the community of developers to find them useful. To comply with those standards, we reserve the right to remove offers that we find misleading or lack credibility.
 
