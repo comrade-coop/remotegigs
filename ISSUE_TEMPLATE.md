@@ -8,7 +8,7 @@ As for the labels used you can refer to the accepted convention here.
 
 <h3>Descriptive Position Title</h3>
 Note: Titles are used by developers to filter job offers based on their preferences.
-</br>
+<br>
 Include:
 <ul>
 <li>Company / Employer</li>
@@ -91,4 +91,7 @@ Is relocation required?
 <h3>Recruitment process</h3>
 
 How would you like developers to apply? What extra info would you like them to provide (stackoverflow account url, cv, etc.)?
+
+<h3>To posting an issue</h3>
+To post a new job offer go to the <a href="https://github.com/comrade-coop/remotegigs/issues" target="blank">issues board</a> and create a new one.
 
