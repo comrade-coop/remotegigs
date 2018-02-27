@@ -4,8 +4,9 @@ RemoteGigs is a free, non-commercial job board, created by developers for develo
 
 The idea started within the Comrade Cooperative as a first step to <b>making modern employment more transparent and better suited for the needs of software developers</b> as a whole. We believe that work in a digital world should provide more flexibility and allow people to enjoy a greater work-life balance. It should feel more rewarding for the people who do the actual work on a daily basis.
  
-If you and other fellow developers like and support this project we are committed to developing it further. To evolve it based on the community’s feedback and features requested. So, hope you enjoy it and if you do, don’t forget to share it!
+If you and other fellow developers like and support this project we are committed to developing it further. To evolve it based on the community’s feedback and features requested. 
 
+<b>So, hope you enjoy it and if you do, don’t forget to share it!</b>
 
 <h2>For employers</h2>
 
