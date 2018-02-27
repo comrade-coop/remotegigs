@@ -1,4 +1,4 @@
-Project
+<h2>Project</h2>
 
 RemoteGigs is a free, non-commercial job board, created by developers for developers.
 
