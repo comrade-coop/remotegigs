@@ -28,7 +28,7 @@ By using this free tool you can:
 <li>Pull work opportunities relevant to you by installing;</li>
 <li>Further filter your preferences based on Title and the label convention;</li>
 <li>Modify the tool’s open code to adapt it to your taste.</li>
-
+<br>
 You can give it a try by starting here.
 
 Other: https://comradecoop.com/blog/
