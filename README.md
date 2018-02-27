@@ -13,11 +13,11 @@ New job offers are posted freely as issues in this repo. The flow and management
 <ul>
 <li>To post a new offer head to the <a href="https://github.com/comrade-coop/remotegigs/issues" target="_blank">issues tab </a>and create a new issue;</li>
 <li>For what is considered a quality job offer please follow this template;</li>
-<li>Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the agreed upon label convention here;</li>
-<li>To gather ideas from previous job posts visit the job board here.</li>
+<li>Labels attached to offers (issues) allow developers to filter them based on their personal interests. You can see the agreed upon label convention <a href="https://stackoverflow.com/tags " target="_blank">here</a>;</li>
+<li>To gather ideas from previous job posts visit the job board <a href="https://github.com/comrade-coop/remotegigs/issues" target="_blank">here</a>.</li>
 </ul>
 
-Important: Please note that we want job offers (issues) to uphold certain standards for the community of developers to find them useful. To comply with those standards, we reserve the right to remove offers that we find misleading or lack credibility.
+<i>Important: Please note that we want job offers (issues) to uphold certain standards for the community of developers to find them useful. To comply with those standards, we reserve the right to remove offers that we find misleading or lack credibility.</i>
 
 If you have any suggestions or questions please write to us at contact(@)comradecoop.com
 
