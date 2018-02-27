@@ -1,4 +1,4 @@
-<h2>Project</h2>
+<h2>About RemoteGigs</h2>
 
 RemoteGigs is a free, non-commercial job board, created by developers for developers.
 
@@ -25,7 +25,7 @@ If you have any suggestions or questions please write to us at contact(@)comrade
 Welcome to a community of developers who recognize the value of employment transparency and managing their personal work-life balance! This project allows you to find work from employees who share those values as well.
 
 By using this free tool you can:
-<li>Pull work opportunities relevant to you by installing;</li>
+<li>Pull work opportunities relevant to you by installing <b>......</b>;</li>
 <li>Further filter your preferences based on Title and the label convention;</li>
 <li>Modify the tool’s open code to adapt it to your taste.</li>
 <br>
