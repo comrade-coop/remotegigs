@@ -2,7 +2,7 @@
 
 We believe transparency and being upfront is crucial when laying the foundation for a fruitful collaboration. Since this is something we all want, our experience has shown that providing the details below is a good first step in that direction.
 
-So please regard these points as the minimum required for a good job post in the community. Details besides the ones listed are more than welcome. 
+<b>So please regard these points as the minimum required for a good job post in the community. Details besides the ones listed are more than welcome.</b> 
 
 As for the labels used you can refer to the accepted convention here.
 
