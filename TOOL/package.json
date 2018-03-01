@@ -1,0 +1,36 @@
+{
+  "name": "remotegigs",
+  "version": "1.0.9",
+  "author": "comrade-coop",
+  "license": "MIT",
+  "main": "./index.js",
+  "preferGlobal": "false",
+  "bin": {
+    "remotegigs": "./offers.js"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "flags": "^0.1.3",
+    "has-flag": "^3.0.0",
+    "js-yaml": "^3.10.0",
+    "json-query": "^2.2.2",
+    "request": "^2.83.0"
+  },
+  "description": "\"`npm install remotegigs`\"\r ##To see all offers filtrated run\r \"`remotegigs`\"\r ##To see all offers without filter run\r \"`remotegigs --nf`\"\r ##To see specific offer run\r \"`remotegigs --id ###`, for example `remotegigs --id 291` where ### is the number of the offer\" \r ##How to use the filter\r \"The filter is set by criteria.yaml in the directory. It is separated in two groups `includesAll` and `includesAny`, as follows \r the first one will filter by all the criterias, while the second one - by any of them.\r `# Group 1 filters by all of these (first AND second AND third ...)\r includesAll:\r      - 'front-end'\r      - 'full-stack'",
+  "devDependencies": {},
+  "scripts": {
+    "test": "remotegigs --nf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comrade-coop/remotegigs.git"
+  },
+  "keywords": [
+    "remotegigs",
+    "job-board"
+  ],
+  "bugs": {
+    "url": "https://github.com/comrade-coop/remotegigs/issues"
+  },
+  "homepage": "https://github.com/comrade-coop/remotegigs#readme"
+}
