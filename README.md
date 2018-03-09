@@ -23,14 +23,34 @@ If you have any suggestions or questions please write to us at contact(@)comrade
 
 ## For developers
 
-Welcome to a community of developers who recognize the value of employment transparency and managing their personal work-life balance! This project allows you to find work from employees who share those values as well.
+Welcome to a community of developers who recognize the value of employment transparency and managing their personal work-life balance! This project allows you to find work from employees who share those values as well and offer flexible work opportunities.
+There are several ways you can use this repository and the free tool including right from your local NPM command-line tool!
 
-By using this free tool you can:
-- Pull work opportunities relevant to you by installing <b>......</b>;</li>
-- Further filter your preferences based on Title and the label convention;</li>
-- Modify the tool’s open code to adapt it to your taste.</li>
+### 1. Repository and job opportunities
+Job opportunities are listed as issues. Each issue is attached labels which allows you to filter them at a glance. You can filter issues by choosing the lables relevant to you from the “Labels” dropdown. 
 
-You can give it a try by starting here.
+![alt tag](https://github.com/comrade-coop/remotegigs/blob/master/screenshots/labels.png)
+
+You can find the full list of the labels used [here](https://github.com/comrade-coop/remotegigs/labels)
+
+### 2. Watching repository activity
+Watching a project means you'll get notifications to your email about any activity at all on the project. At the top of a repository page, click on Watch. This will pull up a dropdown menu from which you can choose to either watch or not watch the project. 
+
+![alt tag](https://github.com/comrade-coop/remotegigs/blob/master/screenshots/watch-temp.png)
+
+### 3. Starring repository
+You can star repositories to keep track of this project and discover similar ones in your news feed. Starring a repository makes it easy to find it again later. You can see all the repositories you have starred by going to your stars page
+
+### 4. Fork repository
+This allows you to make another, separate version of this repository to your account in order to develop it further as you see fit.
+
+### 5. Clone repository
+When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.
+
+![alt tag](https://github.com/comrade-coop/remotegigs/blob/master/screenshots/clone.png)
+
+### 6. NPM command-line tool
+You can execute this tool through your local npm command-line tool. You can find more details in the [README](https://github.com/comrade-coop/remotegigs/tree/master/TOOL) of this tool.
 
 ## About Comrade
 
