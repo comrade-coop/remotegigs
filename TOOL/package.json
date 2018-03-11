@@ -1,6 +1,6 @@
 {
   "name": "remotegigs",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "author": "comrade-coop",
   "license": "MIT",
   "main": "./index.js",

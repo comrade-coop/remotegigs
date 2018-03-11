@@ -46,6 +46,7 @@ function filter(offers){
 }
 var request = require('request');
 var url = 'https://api.github.com/repos/comrade-coop/remotegigs/issues';
+var url_labels = 'https://api.github.com/repos/comrade-coop/remotegigs/labels';
 function getAllOffers(issue = '') {
   return new Promise(function(resolve, reject) {
     request.get({
@@ -63,6 +64,23 @@ function getAllOffers(issue = '') {
     })
   });
 }
+function getListLabels(issue = '') {
+    return new Promise(function(resolve, reject) {
+      request.get({
+          url: url_labels,
+          json: true,
+          headers: {'User-Agent': 'request'}
+        }, (err, res, data) => {
+          if (err) {
+            console.log('Error:', err);
+          } else if (res.statusCode !== 200) {
+            console.log('Status:', res.statusCode);
+          } else {
+            resolve(data);
+          }
+      })
+    });
+  }
 function printOffersFiltered(){
   var Table = require('cli-table');
   // instantiate
@@ -122,7 +140,24 @@ function printOfferSelected(issue_id){
       console.log(table.toString());
   });
 }
+
+function printListLabels(){
+    getListLabels().then((data)=>{
+      var Table = require('cli-table');
+     
+      var table = new Table({
+        head: ['Label name']
+         });
+         for(var label of data){
+            table.push(
+              [label.name]
+          );
+        }
+      console.log(table.toString());
+    });
+}
 exports.getOffers =  getAllOffers;
 exports.printOffers =  printOffers;
 exports.printOffersFiltered = printOffersFiltered;
 exports.printOfferSelected = printOfferSelected;
+exports.printListLabels = printListLabels;
