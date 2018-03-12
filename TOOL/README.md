@@ -20,21 +20,21 @@ Run the npm command-line tool on your platform and type the following command
 
 The filter is set by [criteria.yaml](https://github.com/comrade-coop/remotegigs/blob/master/TOOL/criteria.yaml) in the tool's directory.The filter is separated by two groups: 
 
-Group 1 (all of these) - gives results containing all of the arguments written down 
-
-Group 2 (any of these) - gives results containing any of the arguements written down
+includesAll and includesAny
 
 The result in the command line tool is the combined one from both groups. You can comment with "#" any of the labels you do not want to use.
 
 *Example:
 
-Group 1 filters by all of these (first AND second AND third ...)
+**includesAll**: 
 
-```includesAll: - 'front-end' - 'full-stack'```
+  - 'Frontend' 
+  - 'Full Stack'
 
-Group 2 filters additional by any of these (first OR second OR third..)
+**includesAny**:
 
-```includesAny: - 'front-end' - 'c#'*```
+  - 'Frontend'
+  - 'C++'
 
 ![alt tag](https://github.com/comrade-coop/remotegigs/blob/master/screenshots/filtered-offers.png)
 
@@ -42,7 +42,7 @@ Group 2 filters additional by any of these (first OR second OR third..)
 
 ```remotegigs --listlabels```
 
-or visit the [labels list](https://github.com/comrade-coop/remotegigs/labels) in this repository
+or visit the [labels list](https://github.com/comrade-coop/remotegigs/labels) in this repository.
 
 ### 5. To see a specific offer run
 
