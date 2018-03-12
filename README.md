@@ -53,6 +53,6 @@ When you create a repository on GitHub, it exists as a remote repository. You ca
 You can execute this tool through your local npm command-line tool. You can find more details in the [README](https://github.com/comrade-coop/remotegigs/tree/master/TOOL) of this tool.
 
 ## About Comrade
-This is a project launched by the Comrade Cooperative. More about us here [BLOG](https://comradecoop.com/blog/)
+This is a project launched by the Comrade Cooperative. More about us here:
 
 [Blog](https://comradecoop.com/blog/)
