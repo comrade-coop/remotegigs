@@ -39,13 +39,13 @@ Watching a project means you'll get notifications to your email about any activi
 ![alt tag](https://github.com/comrade-coop/remotegigs/blob/master/screenshots/watch-temp.png)
 
 ### 3. Starring repository
-You can star repositories to keep track of this project and discover similar ones in your news feed. Starring a repository makes it easy to find it again later. You can see all the repositories you have starred by going to your stars page
+Starring a repository makes it easy to find it again later.
 
 ### 4. Fork repository
 This allows you to make another, separate version of this repository to your account in order to develop it further as you see fit.
 
 ### 5. Clone repository
-When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer.
+You can clone your repository to create a local copy on your computer and explore the code.
 
 ### 6. NPM command-line tool
 You can execute this tool through your local npm command-line tool. You can find more details in the [README](https://github.com/comrade-coop/remotegigs/tree/master/TOOL) of this tool.
