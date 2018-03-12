@@ -29,11 +29,11 @@ The result in the command line tool is the combined one from both groups. You ca
 **includesAll**: 
 
   - 'Frontend' 
-  - 'Full Stack'
+  - 'Angular'
 
 **includesAny**:
 
-  - 'Frontend'
+  - 'Full Stack'
   - 'C++'
 
 ![alt tag](https://github.com/comrade-coop/remotegigs/blob/master/screenshots/filtered-offers.png)
