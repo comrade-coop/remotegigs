@@ -45,9 +45,7 @@ You can star repositories to keep track of this project and discover similar one
 This allows you to make another, separate version of this repository to your account in order to develop it further as you see fit.
 
 ### 5. Clone repository
-When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.
-
-![alt tag](https://github.com/comrade-coop/remotegigs/blob/master/screenshots/clone.png)
+When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer.
 
 ### 6. NPM command-line tool
 You can execute this tool through your local npm command-line tool. You can find more details in the [README](https://github.com/comrade-coop/remotegigs/tree/master/TOOL) of this tool.
