@@ -20,21 +20,21 @@ Run the npm command-line tool on your platform and type the following command
 
 The filter is set by [criteria.yaml](https://github.com/comrade-coop/remotegigs/blob/master/TOOL/criteria.yaml) in the tool's directory.The filter is separated by two groups: 
 
-includesAll and includesAny
+**includesAll** and includesAny
 
 The result in the command line tool is the combined one from both groups. You can comment with "#" any of the labels you do not want to use.
 
 *Example:
 
-**includesAll**: 
-
+```
+includesAll: 
   - 'Frontend' 
   - 'Angular'
-
-**includesAny**:
-
+  
+includesAny:
   - 'Full Stack'
   - 'C++'
+```
 
 ![alt tag](https://github.com/comrade-coop/remotegigs/blob/master/screenshots/filtered-offers.png)
 
