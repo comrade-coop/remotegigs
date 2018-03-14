@@ -2,8 +2,6 @@
 
 This tool executes through the npm command-line tool. The npm command-line tool is bundled with Node.js. If you have it installed, then you already have npm. If not, download Node.js for your platform [here](https://nodejs.org/en/download/).
 
-You will also need an account in https://www.npmjs.com. When you sign up, don’t forget to verify your email!
-
 ## 1. Installing the Remotegigs tool
 
 Run the npm command-line tool on your platform and type the following command
