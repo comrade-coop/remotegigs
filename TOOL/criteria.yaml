@@ -1,21 +1,21 @@
 #   The filter is separated by two groups: 
 #
-#   Group 1 (all of these) - gives results containing all of the arguments written down 
+#   includesAll - gives results containing all of the arguments written down 
 #
-#   Group 2 (any of these) - gives results containing any of the arguements written down
+#   includesAny - gives results containing any of the arguements written down
 #
-#   Result on the cli is the combined one from the groups. You can comment with "#" any 
-#   of the groups if you do not want to use them. 
+#   Result in the command line tool is the combined one from both groups. You can comment with "#" any 
+#   of the parameters if you do not want to use them. 
 
-
-# Group 1 filters by all of these (first AND second AND third ...)
+# Example:
+#  includesAll filters by all of these
 includesAll:
      - 'Angular'
-     #- 'front-end'
+     - 'Frontend'
 
 
-# Group 2 filters additional by any of these (first OR second OR third..)
+# includesAny additionally by any of these
 includesAny:
-     #- 'front-end'
-     - 'c#'
+     #- 'Frontend'
+     - 'C++'
     
