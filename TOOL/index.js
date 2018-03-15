@@ -126,7 +126,10 @@ function printOfferSelected(issue_id){
   // instantiate
       var labels = '';
       for(let key in data['labels']){
-          labels += data['labels'][key].name + ' ';
+          if((parseInt(key)+1) < data['labels'].length)
+            labels += data['labels'][key].name + ', ';
+          else
+            labels += data['labels'][key].name;
       }
       var table = new Table();
       table.push(
