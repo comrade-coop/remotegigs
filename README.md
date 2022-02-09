@@ -19,7 +19,7 @@ New job offers are posted freely as issues in this repo. The flow and management
 
 *Important: Please note that we want job offers (issues) to uphold certain standards for the community of developers to find them useful. To comply with those standards, we reserve the right to remove offers that we find misleading or lack credibility.*
 
-If you have any suggestions or questions please write to us at contact(@)comradecoop.com
+If you have any suggestions or questions please write to us at contact(@)comrade.coop
 
 ## For developers
 
